@@ -19,9 +19,7 @@ Our mission is to develop a website that offers the following features:
 
 1. Easy-to-use search and filtering tools to help customers find products quickly and easily
 
-1. Product pages with detailed descriptions, high-quality images, and user reviews
-
-1. A secure checkout process with multiple payment options
+1. A secure checkout process with multiple payment options (Stripe)
 
 1. A shopping cart that allows customers to save items for later and easily adjust quantities
 
