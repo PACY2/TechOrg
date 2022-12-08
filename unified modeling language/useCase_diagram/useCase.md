@@ -54,8 +54,8 @@ We are going to create the following components :
 
 ## 2. Actors Diagram
 
-// TODO: ADD THE ACTORS DIAGRAM 
-![]()
+
+![actors](https://raw.githubusercontent.com/PACY2/TechOrg/UML/unified%20modeling%20language/useCase_diagram/assets/Actors.PNG)
 
 ## 3. The regroupment table
 
@@ -74,7 +74,7 @@ We are going to create the following components :
 
 # 4. The digram itself
 
-// TODO: ADD THE Use case DIAGRAM 
+![use case digram](https://raw.githubusercontent.com/PACY2/TechOrg/UML/unified%20modeling%20language/useCase_diagram/assets/useCaseDigram.png)
 
 # 5. The Description
 
